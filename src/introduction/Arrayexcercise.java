@@ -45,7 +45,7 @@ public class Arrayexcercise {
 				}
 			 }
 		 }
-		 System.out.println(max);
+		 System.out.println("Max is : "+max);
 		 }
 		
 }	
