@@ -18,7 +18,8 @@ public class Arraylistinterface {
  System.out.println( a.contains(12));
   System.out.println("index is"+a.indexOf(38));
   System.out.println("index is"+a.hashCode());
-  
+  System.out.println("index is"+a.hashCode());
+  System.out.println("index is"+a.hashCode());
 	}
 
 }
